@@ -16,7 +16,7 @@ Working smart, not just hard! This repository is completely automated using [Lee
 
 Every time I successfully solve a problem on LeetCode, LeetSync automatically fetches the problem description, my solution, and performance metrics (time & space complexity) and pushes them directly to this repository. No manual commits required! 🚀
 
-## 🛠️ Tech Stack & Languages
+##  Tech Stack & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
