@@ -1,7 +1,7 @@
 #  My LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Nsm_24BAI70160?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Vasu453?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 </div>
 
 <br>
@@ -37,7 +37,7 @@ Thanks to LeetSync, the repository is neatly organized. Inside each problem fold
 
 If you're also grinding LeetCode or just want to chat about tech, feel free to reach out!
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Nsm_24BAI70160/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vasu453/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasa-moorty-nalam/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasu453)
 
