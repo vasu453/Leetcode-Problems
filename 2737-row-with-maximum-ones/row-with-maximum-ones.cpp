@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        vector<pair<int, int>> lekka;
+        int maxi_row = 0;
         int rows = mat.size();
         int cols = mat[0].size();
         int maxi = 0;
@@ -10,17 +10,13 @@ public:
             for(int col = 0; col < cols; col++){
                 count += mat[row][col];
             }
-            lekka.push_back({row,count});
-            maxi = max(maxi, count);
-        }
-        for(int i = 0; i < rows; i++)
-        {
-            if(lekka[i].second == maxi)
+            if(count > maxi)
             {
-                return {lekka[i].first, lekka[i].second};
+                maxi = count;
+                maxi_row = row;
             }
         }
-        return{0, 0};
+        return{maxi_row, maxi};
         
     }
 };
